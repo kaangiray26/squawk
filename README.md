@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/kaangiray26/squawk">
-        <img src="https://raw.githubusercontent.com/kaangiray26/squawk/main/images/compressed.png" alt="Squawk Logo" width="80" height="80">
+        <img src="https://raw.githubusercontent.com/kaangiray26/squawk/main/images/compressed.png" alt="Squawk Logo" width="256" height="256">
     </a>
     <h1 align="center">Squawk</h1>
     <p align="center">
